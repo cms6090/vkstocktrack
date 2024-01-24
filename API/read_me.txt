@@ -1,0 +1,1 @@
+If you have updated the data, you need to run create_save_model again for all stock data (^KS11, 055550.KS, ^VNINDEX.VN, VCB.VN). It might take a long time. After that, you can proceed with load_model.

@@ -1,0 +1,11 @@
+python == 3.11.5
+scikit-learn
+pycaret[full]
+pycaret-ts-alpha
+yfinance
+yahooquery
+cloudscraper
+requests
+flask
+flask_cors
+flask_restx

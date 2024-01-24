@@ -1,0 +1,54 @@
+{
+  "historyData": "History data",
+  "stockCompare": "Stock Compare",
+  "news": "News",
+  "prediction": "Prediction",
+  "stocksSymbol": "Stocks symbol",
+
+  "priceDetail": {
+    "name": "Name",
+    "previousClose": "Previous close",
+    "todayOpen": "Today open",
+    "todayVolume": "Today volume",
+    "avgVolume": "Avg volume",
+    "rangeDays": "Range days",
+    "range52": "Range 52"
+  },
+
+  "tooltip": {
+    "previousClose": "The stock price at the end of the previous trading day.",
+    "todayOpen": "The stock price at the start of the days trading.",
+    "todayVolume": "The total number of shares traded that day.",
+    "avgVolume": "The average number of shares traded over a certain period.",
+    "rangeDays": "The difference between the highest and lowest prices of the day.",
+    "range52": "The difference between the highest and lowest prices over the past 52 weeks (1 year).",
+    "MA200": "The average stock price over the most recent 200 days.",
+    "MA50": "The average stock price over the most recent 50 days."
+  },
+
+  "home": {
+    "stockTrackTool": "Stock Track Tool",
+    "subStockTrackTool": "Discover comprehensive stock information for both South Korean and Vietnamese markets on our user-friendly platform. Access stock prices, technical analysis, and essential financial indicators effortlessly. Stay updated with daily market insights for informed investment decisions. Compare stock performances, utilize powerful analytical tools, and stay ahead in the dynamic South Korean and Vietnamese stock markets. Join us for a streamlined stock trading experience with comprehensive information readily available.",
+    "todayPrice": "Today Stocks Prices by Market Cap"
+  },
+
+  "history": {
+    "title": "Stock price history chart",
+    "subTitle": "The stock price history chart is an important tool to track and evaluate the fluctuations in the stock value over time. By displaying the opening, closing, and high/low prices, this chart helps investors make investment decisions and forecast market trends. Reading and understanding the stock price history chart is a key to making smart decisions in stock trading."
+  },
+
+  "compare": {
+    "title": "Stock Price Comparison Chart",
+    "subTitle": "The stock price comparison page provides a comprehensive view of the performance of different stocks in the financial market. By displaying and comparing opening prices, closing prices, and various indicators, this page helps investors compare and assess the volatility of stocks from each company. Through such comparisons, investors can make informed decisions based on accurate and detailed information about the stock performance over a specific period."
+  },
+
+  "newsPage": {
+    "title": "Stock News Chart",
+    "subTitle": "Stay informed with the latest updates on global stock market trends, corporate announcements, and economic developments provided by the Stock News Center. Gain real-time insights into market shifts, enabling you to make well-informed decisions in the dynamic world of finance."
+  },
+
+  "predict": {
+    "title": "Stock Price Prediction with VKStockTrack AI",
+    "subTitle": "Explore future possibilities in the stock market with VKStockTrack AI's advanced forecasting. Leverage artificial intelligence to analyze historical data, identify trends, and make informed predictions on stock price movements. Empower your investment decisions with cutting-edge technology in the dynamic realm of finance."
+  }
+}

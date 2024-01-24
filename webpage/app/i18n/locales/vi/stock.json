@@ -1,0 +1,54 @@
+{
+  "historyData": "Dữ liệu lịch sử",
+  "stockCompare": "So sánh cổ phiếu",
+  "news": "Tin tức",
+  "prediction": "Dự đoán",
+  "stocksSymbol": "Danh sách mã cổ phiếu",
+
+  "priceDetail": {
+    "name": "Tên",
+    "previousClose": "Giá đóng cửa trước đó",
+    "todayOpen": "Giá mở cửa hôm nay",
+    "todayVolume": "Khối lượng giao dịch hôm nay",
+    "avgVolume": "Khối lượng giao dịch trung bình",
+    "rangeDays": "Biên độ trong ngày",
+    "range52": "Biên độ 52 tuần"
+  },
+
+  "tooltip": {
+    "previousClose": "Giá cổ phiếu tại thời điểm kết thúc phiên giao dịch trước đó.",
+    "todayOpen": "Giá cổ phiếu tại thời điểm bắt đầu phiên giao dịch hôm nay.",
+    "todayVolume": "Tổng số cổ phiếu được giao dịch trong ngày hôm đó.",
+    "avgVolume": "Số lượng cổ phiếu trung bình được giao dịch trong một khoảng thời gian nhất định.",
+    "rangeDays": "Chênh lệch giữa giá cao nhất và giá thấp nhất trong ngày.",
+    "range52": "Chênh lệch giữa giá cao nhất và giá thấp nhất trong 52 tuần qua (1 năm).",
+    "MA200": "Giá cổ phiếu trung bình trong 200 ngày gần nhất.",
+    "MA50": "Giá cổ phiếu trung bình trong 50 ngày gần nhất."
+  },
+
+  "home": {
+    "stockTrackTool": "Công cụ theo dõi Chứng khoán",
+    "subStockTrackTool": "Khám phá thông tin chứng khoán toàn diện cho cả thị trường Hàn Quốc và Việt Nam trên nền tảng thân thiện với người dùng của chúng tôi. Truy cập giá cổ phiếu, phân tích kỹ thuật và các chỉ số tài chính quan trọng một cách dễ dàng. Cập nhật thông tin thị trường hàng ngày để đưa ra quyết định đầu tư sáng suốt. So sánh hiệu suất cổ phiếu, sử dụng các công cụ phân tích mạnh mẽ và dẫn đầu thị trường chứng khoán Hàn Quốc và Việt Nam năng động. Hãy tham gia với chúng tôi để trải nghiệm giao dịch chứng khoán được sắp xếp hợp lý với thông tin toàn diện luôn sẵn sàng.",
+    "todayPrice": "Giá cổ phiếu hôm nay theo vốn hóa thị trường"
+  },
+
+  "history": {
+    "title": "Biểu đồ thể hiện lịch sử giá cổ phiếu",
+    "subTitle": "Biểu đồ lịch sử giá cổ phiếu là công cụ quan trọng giúp theo dõi và đánh giá biến động giá trị cổ phiếu qua thời gian. Thông qua việc hiển thị giá mở cửa, đóng cửa và đỉnh/thấp, biểu đồ này hỗ trợ nhà đầu tư trong quyết định đầu tư và dự báo xu hướng thị trường. Đọc và hiểu biểu đồ lịch sử giá là chìa khóa quan trọng để đưa ra quyết định thông minh trong giao dịch cổ phiếu."
+  },
+
+  "compare": {
+    "title": "Biểu đồ so sánh giá cổ phiếu",
+    "subTitle": "Trang so sánh giá cổ phiếu cung cấp một cái nhìn toàn diện về hiệu suất của các cổ phiếu khác nhau trong thị trường tài chính. Bằng cách hiển thị và đối chiếu giá mở cửa, giá đóng cửa, và các chỉ số khác, trang này giúp nhà đầu tư so sánh và đánh giá sự biến động của cổ phiếu từng công ty. Qua việc so sánh này, nhà đầu tư có thể đưa ra quyết định thông minh, dựa trên thông tin chính xác và chi tiết về hiệu suất cổ phiếu trong thời gian nhất định."
+  },
+
+  "newsPage": {
+    "title": "Biểu Đồ Tin Tức Chứng Khoán",
+    "subTitle": "Cùng với những cập nhật mới nhất về xu hướng thị trường chứng khoán toàn cầu, thông báo từ các doanh nghiệp và diễn biến kinh tế do Biểu Đồ Tin Tức Chứng Khoán cung cấp. Nhận thêm cái nhìn thời gian thực về sự biến động của thị trường, giúp bạn đưa ra những quyết định thông minh trong thế giới tài chính đầy biến động."
+  },
+
+  "predict": {
+    "title": "Dự Đoán Giá Cổ Phiếu với VKStockTrack AI",
+    "subTitle": "Khám phá những khả năng trong tương lai trên thị trường cổ phiếu với khả năng dự đoán tiên tiến của VKStockTrack AI. Tận dụng trí tuệ nhân tạo để phân tích dữ liệu lịch sử, nhận diện xu hướng và đưa ra dự đoán chính xác về biến động giá cổ phiếu. Tăng cường quyết định đầu tư của bạn với công nghệ hiện đại trong thế giới tài chính đầy biến động."
+  }
+}

@@ -1,0 +1,13 @@
+const fontSize = {
+  xs: '10px',
+  sm: '12px',
+  base: '14px',
+  md: '16px',
+  lg: '18px',
+  xl: '20px',
+  exl: '22px',
+  xxl: '24px',
+  xxxl: '40px',
+};
+
+export default fontSize;

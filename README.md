@@ -1,7 +1,7 @@
 <html>
   <body>
     <h1>VKSTOCKTRACK</h1>
-    <h2>한국과 베트남의 주식을 비교, 예측하는 웹페이지</h2>
+    <div style="font-size: 50 font-style: bold">한국과 베트남의 주식을 비교, 예측하는 웹페이지</div>
     <hr>
     <h5>비교 주식</h5>
     <table>

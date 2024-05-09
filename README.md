@@ -1,7 +1,6 @@
 <html>
   <body>
     <h1>VKSTOCKTRACK : 한국과 베트남의 주식을 비교, 예측하는 웹페이지</h1>
-    <hr>
     <h5>비교 주식</h5>
     <table>
       <tr><td>한국</td><td>베트남</td></tr>
